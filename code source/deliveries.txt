@@ -1,0 +1,36 @@
+D150 0800 0200 1111 Notre-Dame ouest, Montreal H3C 1K3
+D151 1200 0200 1212 St-Denis, Montreal A1A 1A1
+D152 1600 0200 9988 Place Curatteau, Montreal H3C 1C8
+D153 0800 0300 4444 Ave Trudeau, St-Eustache J7C 5M5
+D154 1300 0200 1414 Francis Gabrel, Montreal K8V 6G7
+D155 1000 0500 2222 Fontaine Bleue, St-Janvier K5F 6D7
+D156 1500 0500 4747 Place des Armes, Montreal K8V 4S4
+D157 2000 0200 9090 Bonaventure, Montreal N7G 8G8
+D158 0830 0230 1100 Rue Notre-Dame Ouest, Montreal H3C 1K3
+D159 1100 0430 1200 Plamondon, Montreal J8V 6H6
+D160 1530 0200 3636 Jean Chretien, Rosemont K9K 5C2
+D161 1730 0300 4040 Rue Ginette Reno, Rosemont G7G 4C4
+D162 0630 0400 6060 Rue Cadillac, St-Jerome F6F 4C4
+D163 1030 0400 5050 Place Belanger, Ste-Julie C7C 3S3
+D164 0700 0400 2020 Jean Talon Ouest, Montreal A4A 5F5
+D165 1100 0400 7777 Jean Talon Est, Montreal N8N 6T6
+D166 0800 0500 6666 Rue St-Michel, St-Jerome K8K 4D4
+D167 1300 0300 7878 Rue Decarie, St-Janvier L9L 7Y7
+D168 0930 0230 8888 Place Dupuis, Montreal J9J 5R5
+D169 1200 0300 3232 Hotel de Ville, Montreal V6F 3E3
+D170 1500 0230 9000 Chemin St-Bernard, Montreal L9L 3W3
+D171 1230 0330 8000 Cote Ste-Catherine, St-Janvier K8K 6T6
+D172 1600 0130 5353 Vincent D'indy, Mont Tremblant C5R 3W3
+D173 1730 0130 1190 Ave Bromont, Mont Tremblant G5R 4E4
+D174 1900 0130 8877 Rue Mont Tremblant, St-Bernard S3S 2Q2
+D175 0830 0230 9922 Ave Mont Blanc, Rosemont P0P 9I9
+D176 1000 1000 5544 Ave Louis Lafontaine, St-Leonard N6G 7G7
+D177 0800 1300 6767 Rue Les framboises, Ste-Julie L9L 8J8
+D178 0900 1400 7700 Place Angrignon, St-Janvier X6R 3E3
+D179 0930 0900 6600 Ave Paul Martin Ouest, Montreal S5S 7Y7
+D180 1000 0800 3300 Ave Jules Dufresne, Montreal Z9Z 7Y7
+D181 0900 0700 2020 Jean Talon Ouest, Montreal A4A 5F5
+D182 0600 1200 2876 Rue Notre-Dame Ouest, Montreal H3C 1K3
+D183 0400 0900 6060 Rue Cadillac, St-Jerome F6F 4C4
+D184 0500 1200 0909 Rue St-Michel, St-Jerome K8K 4D4
+D185 0500 1400 3954 Fontaine Bleue, St-Janvier K5F 6D7
